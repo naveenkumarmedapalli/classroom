@@ -1,5 +1,6 @@
 package com.nvn.dsa.searching.linersearch;
 
+// the class is created to practice LinearSearch cases
 public class Linear_Search {
 
     public static void main(String[] args) {
