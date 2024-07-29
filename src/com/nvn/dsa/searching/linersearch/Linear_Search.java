@@ -16,6 +16,7 @@ public class Linear_Search {
         //print the array
         print(oneDimArray);
         System.out.println();
+        //print the 2D array
         print(twoDimArray);
 
         System.out.println();
