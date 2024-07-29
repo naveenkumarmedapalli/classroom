@@ -1,5 +1,20 @@
 package com.nvn.dsa.searching.binarysearch.problems;
+/*
+    Smallest Letter GrateThan Target in the array
+        I/P: {'c','f','j'};
 
+        target : g
+        O/P: j
+
+        target : a
+        O/P : a (smallest in the array)
+
+        target : c
+        O/P : f
+
+        target : d
+        O/P : f
+*/
 public class SmallestLetterGrateThanTarget {
     public static void main(String[] args) {
 

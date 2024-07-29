@@ -1,5 +1,10 @@
 package com.nvn.dsa.searching.binarysearch.problems;
-
+/*
+    Floor of the given number in the array
+        I/P: {99, 100, 101, 102, 110, 120};
+        target : 119
+        O/P: 110
+*/
 public class FloorOfGivenNumber {
     public static void main(String[] args) {
         int[] arr = {99, 100, 101, 102, 110, 120};

@@ -1,4 +1,10 @@
 package com.nvn.dsa.searching.binarysearch.problems;
+/*
+ceiling of the given number in the array
+        I/P: {99, 100, 101, 102, 110, 120};
+        target : 119
+        O/P: 120
+*/
 
 public class CeilingOfGivenNumber {
 

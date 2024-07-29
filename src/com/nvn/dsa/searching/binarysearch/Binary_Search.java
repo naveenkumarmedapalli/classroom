@@ -1,5 +1,5 @@
 package com.nvn.dsa.searching.binarysearch;
-
+// BinarySearch algorithm
 public class Binary_Search {
     public static void main(String[] args) {
         int[] arrAsc = {99, 100, 101, 102, 110, 120};

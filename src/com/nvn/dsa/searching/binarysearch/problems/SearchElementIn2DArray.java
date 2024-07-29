@@ -1,5 +1,19 @@
 package com.nvn.dsa.searching.binarysearch.problems;
+/*
+    Search Element In 2D Array but array not completely sorted.
+        row wise sorted and column wise sorted
+        I/P: {
+                {10, 20, 30, 40},
+                {15, 25, 35, 45},
+                {18, 26, 37, 49},
+                {28, 34, 48, 56}
+        };
+        target : 37
+        O/P: [2,2]
 
+        target : 38
+        O/P: [-1,-1]
+*/
 import java.util.Arrays;
 
 public class SearchElementIn2DArray {

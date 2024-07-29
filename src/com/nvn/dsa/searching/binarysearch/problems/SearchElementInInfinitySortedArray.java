@@ -1,5 +1,10 @@
 package com.nvn.dsa.searching.binarysearch.problems;
-
+/*
+    Search Element In Infinity Sorted Array
+        I/P: { 3, 5, 7, 9, 10, 90, 100, 130, 140, 160, 170 };
+        target : 10
+        O/P: 4
+*/
 public class SearchElementInInfinitySortedArray {
     public static void main(String[] args) {
         int[] arr = {
