@@ -1,5 +1,9 @@
 package com.nvn.dsa.searching.binarysearch.problems;
-
+/*
+    In Mountain Array, find the maximum of the array and print its index
+        I/P: {1, 2, 3, 5, 6, 4, 3, 2};
+        O/P: 4 (index)
+*/
 public class MountainArray {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 5, 6, 4, 3, 2};

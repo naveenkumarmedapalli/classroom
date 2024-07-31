@@ -1,5 +1,11 @@
 package com.nvn.dsa.searching.binarysearch.problems;
 
+/*
+    First and Last Position of the given number in the array
+        I/P: {98, 99, 99, 99, 99, 100, 101, 102, 110, 120};
+        target : 99
+        O/P: [1,4]
+*/
 public class FirstAndLastPosition {
     public static void main(String[] args) {
         int[] arr = {5, 7, 7, 7, 7, 7, 8, 8, 10};
